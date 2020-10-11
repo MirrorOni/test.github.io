@@ -7,15 +7,6 @@ body, html {
 	width: 100% !important;
 	height: 100% !important;
 }
-h1 {
-	font-family: 'Montserrat', sans-serif;
-	color: #fff;
-	font-size: 62px;
-	font-weight: 700;
-	margin-top: 0;
-	margin-bottom: 10px;
-	text-shadow: 0 0 15px rgba(0,0,0,0.5)
-}
 h2 {
 	font-family: 'Montserrat', sans-serif;
 	margin: 0 0 20px 0;
